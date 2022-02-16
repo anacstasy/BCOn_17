@@ -19,6 +19,8 @@
   /* bg colors */
   --primary-bg_mode-light: #f7f7f7;
   --primary-bg_mode-dark: #191c26;
+
+  --main-txt-cl: #FFF;
 }
 
 /* Common styles */
